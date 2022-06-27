@@ -1,0 +1,4 @@
+useEffect => by using this hook we tell react our components needs to do something after render,
+whenever our render method call or update our page than the useEffect will run(or useEffect will automaticall call)
+
+hooks never work with class component we have always use functional component to use hooks
